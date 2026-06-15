@@ -16,7 +16,7 @@ This project predicts Customer Lifetime Value using machine learning techniques.
 - LightGBM model
 
 ## 📈 Results
-- Achieved ~0.32 R² (local)
+- Achieved ~0.159 R² (local)
 - Optimized for generalization in hackathon
 
 ## 🚀 Outcome
